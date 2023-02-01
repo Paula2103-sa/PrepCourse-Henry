@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un prepositorio de prueba del modulo 2
+Esta es una prueba de como hacer un prepositorio y como clonarlo en el computador
